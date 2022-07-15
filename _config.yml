@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Xubin Zhong / HomePage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xubin Zhong"
 description              : &description "personal description"
