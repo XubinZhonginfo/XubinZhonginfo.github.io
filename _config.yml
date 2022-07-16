@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xubin Zhong"
   avatar           : "bin.jpg"
-  bio              : "Ph. D Candidate"
+  bio              : "Ph. D Candidate at South China University of Technology"
   location         : "GuangZhou, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Y_ZvaccAAAAJ&hl=zh-CN"
-  email            : "eexubin@mail.scut.edu.cn"
+  email            :  eexubin@mail.scut.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -240,6 +240,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+ # _honors
+  - scope:
+      path: ""
+      type: honors
     values:
       layout: talk
       author_profile: true
